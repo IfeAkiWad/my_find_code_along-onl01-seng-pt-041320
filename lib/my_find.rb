@@ -7,4 +7,5 @@ i = 0
    return yield(collection[i]) if yield(collection[i])
     i += 1
   end
+  new_values
 end
